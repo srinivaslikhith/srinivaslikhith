@@ -12,8 +12,6 @@ I'm a Master's student in Computer Science at Stony Brook University, passionate
 💻 I have hands-on experience developing scalable systems like command orchestrators, backend APIs, and live streaming services, as well as working on distributed systems like Paxos and 2PC.  
 📚 When not coding, I enjoy reading tech papers and exploring cloud architecture!
 
-🔎 Looking for: Software Engineering / Backend Engineering opportunities.
-
 > If you enjoy reading about my work, please reach out and connect! If you're in the NY area, let's chat over coffee ☕.
 > <div display="flex">
 >  <a href="https://srinivaslikhith.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-001100?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
