@@ -4,7 +4,7 @@
 </picture>
 
 > [!IMPORTANT]
-> hiya, I'm Srinivas! ✨
+> hiya, I'm Likhith! ✨
 >
 👋 Hi, I'm Srinivas Likhith Raichur!  
 I'm a Master's student in Computer Science at Stony Brook University, passionate about building scalable distributed systems and backend technologies. My expertise includes cloud systems, backend APIs, and fault-tolerant systems design.
