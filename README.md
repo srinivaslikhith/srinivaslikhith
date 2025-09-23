@@ -9,7 +9,7 @@
 👋 Hi, I’m Srinivas Likhith Raichur!
 I recently completed my Master’s in Computer Science at Stony Brook University and am based in Arizona. I’m passionate about building scalable distributed systems, cloud-native platforms, and backend infrastructure.
 
-💻 I’ve worked on projects spanning fault-tolerant databases, blockchain consensus, and reinforcement learning–based networking, along with industry experience at Loconav (dashcam command orchestrators, live streaming services) and as a Research Assistant (network optimization, genomic data science).
+ 💻 My experience spans fault-tolerant databases, blockchain consensus, and backend APIs, along with industry work at Loconav (dashcam command orchestrators, live streaming services) and research at Stony Brook (designing clinician-facing databases and building OpenAPI-based natural language query systems).
 
 📚 Outside of work, I enjoy reading research papers, exploring cloud architectures, and experimenting with large-scale system designs.
 > If you enjoy reading about my work, please reach out and connect! If you're in the NY area, let's chat over coffee ☕.
