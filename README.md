@@ -14,7 +14,7 @@ I'm a Master's student in Computer Science at Stony Brook University, passionate
 
 > If you enjoy reading about my work, please reach out and connect! If you're in the NY area, let's chat over coffee ☕.
 > <div display="flex">
->  <a href="https://srinivaslikhith.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-001100?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
+>  <a href="https://srinivaslikhith.online/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-001100?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
 >  <a href="https://www.linkedin.com/in/srinivaslikhith/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 >  <a href="https://github.com/srinivaslikhith" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 > </div>
